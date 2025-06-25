@@ -1,4 +1,4 @@
-# 🌿 Plant Sales Performance Dashboard - Power BI Project
+# 🌿 Plant Sales Performance Dynamic Dashboard - Power BI Project
 
 Ce projet Power BI présente une analyse complète des ventes d'une entreprise spécialisée dans les produits de pépinière ("Plant Nursery"). Il met en évidence les performances commerciales, la segmentation client, la rentabilité produit, et les tendances par pays, mois et type de produit.
 
