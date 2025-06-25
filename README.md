@@ -4,7 +4,7 @@ Ce projet Power BI présente une analyse complète des ventes d'une entreprise s
 
 ![image](https://github.com/user-attachments/assets/52b4cb47-f027-4394-83af-72ca62ec713e)
 
-![video]([https://github.com/mins25/Dashboard-PowerBI-Performance-Entreprise-Plante/blob/main/Demo%20Dashboard%20Power%20BI.mp4](https://github.com/mins25/Dashboard-PowerBI-Performance-Entreprise-Plante/blob/main/Demo%20Dashboard%20Power%20BI.mp4))
+[![video]([https://github.com/mins25/Dashboard-PowerBI-Performance-Entreprise-Plante/blob/main/Demo%20Dashboard%20Power%20BI.mp4](https://github.com/mins25/Dashboard-PowerBI-Performance-Entreprise-Plante/blob/main/Demo%20Dashboard%20Power%20BI.mp4))](https://github.com/user-attachments/assets/2c507925-5da7-4191-9425-5a1eed622b18)
 ## 📊 Objectif du projet
 
 L’objectif principal est d’explorer les ventes, comprendre les tendances, identifier les pays et produits en difficulté ou performants, et segmenter la clientèle selon la rentabilité.
