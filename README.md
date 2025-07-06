@@ -2,7 +2,8 @@
 
 Ce projet Power BI présente une analyse complète des ventes d'une entreprise spécialisée dans les produits de pépinière ("Plant Nursery"). Il met en évidence les performances commerciales, la segmentation client, la rentabilité produit, et les tendances par pays, mois et type de produit.
 
-![image](https://github.com/user-attachments/assets/23f4f773-3804-4a9d-8a3c-1dd881146a9c)
+![image](https://github.com/user-attachments/assets/623d3fca-41a8-4b1f-9c4f-8d3d673879eb)
+
 
 
 
