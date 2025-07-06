@@ -2,7 +2,8 @@
 
 Ce projet Power BI présente une analyse complète des ventes d'une entreprise spécialisée dans les produits de pépinière ("Plant Nursery"). Il met en évidence les performances commerciales, la segmentation client, la rentabilité produit, et les tendances par pays, mois et type de produit.
 
-![image](https://github.com/user-attachments/assets/6c95901a-2203-417d-9f9f-b20cf09b9e13)
+![image](https://github.com/user-attachments/assets/23f4f773-3804-4a9d-8a3c-1dd881146a9c)
+
 
 
 [![video]([https://github.com/mins25/Dashboard-PowerBI-Performance-Entreprise-Plante/blob/main/Demo%20Dashboard%20Power%20BI.mp4](https://github.com/mins25/Dashboard-PowerBI-Performance-Entreprise-Plante/blob/main/Demo%20Dashboard%20Power%20BI.mp4))](https://github.com/user-attachments/assets/2c507925-5da7-4191-9425-5a1eed622b18)
