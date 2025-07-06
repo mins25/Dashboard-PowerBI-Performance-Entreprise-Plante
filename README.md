@@ -30,7 +30,6 @@ Le jeu de données contient des informations de transactions de vente, clients e
 
 - **Power BI Desktop**
 - **DAX & Power Query**
-- **Visuals personnalisés et interactifs**
 
 ---
 
